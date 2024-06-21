@@ -5,5 +5,9 @@
 "PhysRev":
   url: https://journals.aps.org/
 
+  "TCAD":
+  url: https://ieee-ceda.org/publications/tcad
+  color: "#00369f"
+  
 "Vision":
   color: "#009f36"

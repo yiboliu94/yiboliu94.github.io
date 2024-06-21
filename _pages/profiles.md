@@ -1,10 +1,11 @@
 ---
 layout: profiles
-permalink: /people/
+#permalink: /people/
+permalink: /aboutme/
 title: About Me  #page title, optional
 description:    # page subtitle, optional
 nav: true
-nav_order: 1
+nav_order: 1  #nav_order=1 means first among the top manu
 
 profiles:
   # if you want to include more than one profile, just replicate the following block for each profile inside _pages/
